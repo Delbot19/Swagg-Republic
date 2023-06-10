@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Swagg-Republic/static/css/main.0cf0e798.css",
+    "main.js": "/Swagg-Republic/static/js/main.4cefc788.js",
+    "static/js/787.1e7da8cd.chunk.js": "/Swagg-Republic/static/js/787.1e7da8cd.chunk.js",
+    "static/media/pull.jpg": "/Swagg-Republic/static/media/pull.314f00ad88658873134d.jpg",
+    "static/media/sweet.jpg": "/Swagg-Republic/static/media/sweet.2dc20693042885ca187a.jpg",
+    "static/media/casquette.jpg": "/Swagg-Republic/static/media/casquette.b38cafcf40f0cbdee8dd.jpg",
+    "index.html": "/Swagg-Republic/index.html",
+    "main.0cf0e798.css.map": "/Swagg-Republic/static/css/main.0cf0e798.css.map",
+    "main.4cefc788.js.map": "/Swagg-Republic/static/js/main.4cefc788.js.map",
+    "787.1e7da8cd.chunk.js.map": "/Swagg-Republic/static/js/787.1e7da8cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cf0e798.css",
+    "static/js/main.4cefc788.js"
+  ]
+}
